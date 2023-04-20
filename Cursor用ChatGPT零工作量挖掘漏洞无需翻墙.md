@@ -30,7 +30,7 @@
 
 > 建议跳过，后续使用顺利，可不填。
 
-打开软件后，你可以在 Welcome 页面配置 Copilot ，也可以在打开之后点击右侧设置来登录 Github Copilot 。 当然这步并不是必须的，（建议跳过，后续使用顺利，可不填）因为 Cursor 内部已经整合了 GitHub Copilot 。
+打开软件后，你可以在 Welcome 页面配置 Copilot ，也可以在打开之后点击右侧设置来登录 Github Copilot 。 当然这步并不是必须的，（建议跳过，后续使用顺利，可不填）因为 Cursor 内部已经整合了 GitHub Copilot 。参考文章：https://cloud.tencent.com/developer/article/2242409
 
 
 
